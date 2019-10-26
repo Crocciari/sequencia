@@ -1,0 +1,15 @@
+Main.Prg
+atualiza_alertas.Prg
+atualiza_tela.Prg
+inclui_produtos.Prg
+main_button_pedir_action.prg
+main_button_sobre_action.prg
+main_form_oninit.prg
+main_grid_produtos_ondblclick.prg
+msg.Prg
+sequencia_form_oninit.prg
+sequencia_grid_tarefas_ondblclick.prg
+sequencia_timer_sequencia_action.prg
+setacortarefas.Prg
+setacorzebra.Prg
+sobre.Prg
